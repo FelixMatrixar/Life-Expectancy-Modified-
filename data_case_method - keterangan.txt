@@ -1,0 +1,25 @@
+## Deskripsi Data:
+Data contains life expectancy, health, immunization, and economic and demographic information about 179 countries from 2000-2015 years. The adjusted dataset has 21 variables and 2.864 rows.
+
+## Keterangan Variabel:
+1) Country: List of the 179 countries
+2) Region: 179 countries are distributed in 9 regions. E.g. Africa, Asia, Oceania, European Union, Rest of Europe and etc.
+3) Year: Years observed from 2000 to 2015
+4) Infant_deaths: Represents infant deaths per 1000 population
+5) Under_five_deaths: Represents deaths of children under five years old per 1000 population
+6) Adult_mortality: Represents deaths of adults per 1000 population
+7) Alcohol_consumption: Represents alcohol consumption that is recorded in liters of pure alcohol per capita with 15+ years old
+8) Hepatitis_B: Represents % of coverage of Hepatitis B (HepB3) immunization among 1-year-olds.
+9) Measles: Represents % of coverage of Measles containing vaccine first dose (MCV1) immunization among 1-year-olds
+10) BMI: BMI is a measure of nutritional status in adults. It is defined as a person's weight in kilograms divided by the square of
+11) Polio: Represents % of coverage of Polio (Pol3) immunization among 1-year-olds.
+12) Diphtheria: Represents % of coverage of Diphtheria tetanus toxoid and pertussis (DTP3) immunization among 1-year-olds.
+13) Incidents_HIV: Incidents of HIV per 1000 population aged 15-49
+14) GDP_per_capita: GDP per capita in current USD
+15) Population_mln: Total population in millions
+16) Thinness_ten_nineteen_years: Prevalence of thinness among adolescents aged 10-19 years. BMI < -2 standard deviations below the median.
+17) Thinness_five_nine_years: Prevalence of thinness among children aged 5-9 years. BMI < -2 standard deviations below the median.
+18) Schooling: Average years that people aged 25+ spent in formal education
+19) Economy_status_Developed: Developed country
+20) Economy_status_Developing: Developing county
+21) Life_expectancy: Average life expectancy of both genders in different years from 2010 to 2015
